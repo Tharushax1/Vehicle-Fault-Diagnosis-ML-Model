@@ -55,7 +55,7 @@ The model is trained on a **real automotive diagnostic dataset**, containing tho
 ### 🔧 Installation
 
 ```bash
-git clone https://github.com/your-username/vehicle-fault-ml-model.git
+git clone https://github.com/Tharushax1/Vehicle-Fault-Diagnosis-ML-Model.git
 cd vehicle-fault-ml-model
 
 pip install -r requirements.txt
